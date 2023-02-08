@@ -2,7 +2,7 @@
   <div>
     <v-col class="text-center">
       <h1 style="color: #424242; padding: 8px">Portfolio</h1>
-      <p style="color: grey; padding: 8px">My Tecnical level</p>
+      <p style="color: grey; padding: 8px">My Portfolio</p>
     </v-col>
     <v-tabs
       v-model="tab"
@@ -23,7 +23,7 @@
         <v-icon>mdi-nuxt</v-icon>
       </v-tab>
       <v-tab href="#tab-3">
-        React.js
+        Next.js
         <v-icon>mdi-react</v-icon>
       </v-tab>
       <v-tab href="#tab-4">
@@ -277,29 +277,16 @@
         </v-row>
       </v-tab-item>
       <v-tab-item :value="'tab-3'">
-        <!-- <v-row class="pt-4 pb-4">
+        <v-row class="pt-4 pb-4">
           <v-col cols="12" sm="3" md="3">
-            <v-card
-              class="mx-auto"
-              max-width="344"
-              href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-              target="_blank"
-            >
+            <v-card class="mx-auto" max-width="344">
               <v-img
-                src="https://ph02.tci-thaijo.org/public/journals/273/cover_issue_16756_en_US.jpg"
+                src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"
                 height="200px"
               ></v-img>
 
-              <v-card-title>
-                Sugar Cane Red Stripe Disease Detection using YOLO CNN of Deep
-                Learning Technique</v-card-title
-              >
-
-              <v-card-subtitle>
-                Vol. 8 No. 2 (2022): July - December
-              </v-card-subtitle>
-
-              <v-card-actions>
+              <v-card-title>Online Shop Mockup</v-card-title>
+              <!-- <v-card-actions>
                 <v-spacer></v-spacer>
                 <v-btn
                   color="indigo darken-4"
@@ -309,112 +296,12 @@
                 >
                   View
                 </v-btn>
-              </v-card-actions>
+              </v-card-actions> -->
             </v-card>
           </v-col>
-          <v-col cols="12" sm="3" md="3">
-            <v-card
-              class="mx-auto"
-              max-width="344"
-              href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-              target="_blank"
-            >
-              <v-img
-                src="https://ph02.tci-thaijo.org/public/journals/273/cover_issue_16756_en_US.jpg"
-                height="200px"
-              ></v-img>
-
-              <v-card-title>
-                Sugar Cane Red Stripe Disease Detection using YOLO CNN of Deep
-                Learning Technique</v-card-title
-              >
-
-              <v-card-subtitle>
-                Vol. 8 No. 2 (2022): July - December
-              </v-card-subtitle>
-
-              <v-card-actions>
-                <v-spacer></v-spacer>
-                <v-btn
-                  color="indigo darken-4"
-                  text
-                  href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-                  target="_blank"
-                >
-                  View
-                </v-btn>
-              </v-card-actions>
-            </v-card>
-          </v-col>
-          <v-col cols="12" sm="3" md="3">
-            <v-card
-              class="mx-auto"
-              max-width="344"
-              href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-              target="_blank"
-            >
-              <v-img
-                src="https://ph02.tci-thaijo.org/public/journals/273/cover_issue_16756_en_US.jpg"
-                height="200px"
-              ></v-img>
-
-              <v-card-title>
-                Sugar Cane Red Stripe Disease Detection using YOLO CNN of Deep
-                Learning Technique</v-card-title
-              >
-
-              <v-card-subtitle>
-                Vol. 8 No. 2 (2022): July - December
-              </v-card-subtitle>
-
-              <v-card-actions>
-                <v-spacer></v-spacer>
-                <v-btn
-                  color="indigo darken-4"
-                  text
-                  href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-                  target="_blank"
-                >
-                  View
-                </v-btn>
-              </v-card-actions>
-            </v-card>
-          </v-col>
-          <v-col cols="12" sm="3" md="3">
-            <v-card
-              class="mx-auto"
-              max-width="344"
-              href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-              target="_blank"
-            >
-              <v-img
-                src="https://ph02.tci-thaijo.org/public/journals/273/cover_issue_16756_en_US.jpg"
-                height="200px"
-              ></v-img>
-
-              <v-card-title>
-                Sugar Cane Red Stripe Disease Detection using YOLO CNN of Deep
-                Learning Technique</v-card-title
-              >
-
-              <v-card-subtitle>
-                Vol. 8 No. 2 (2022): July - December
-              </v-card-subtitle>
-
-              <v-card-actions>
-                <v-spacer></v-spacer>
-                <v-btn
-                  color="indigo darken-4"
-                  text
-                  href="https://ph02.tci-thaijo.org/index.php/mijet/article/view/244320"
-                  target="_blank"
-                >
-                  View
-                </v-btn>
-              </v-card-actions>
-            </v-card>
-          </v-col>
-        </v-row> -->
+         
+        
+        </v-row>
       </v-tab-item>
       <v-tab-item :value="'tab-4'">
         <v-row class="pt-4 pb-4">

@@ -125,7 +125,7 @@ strong {
   position: absolute;
   left: -21%;
   top: -21%;
-  background: url("~/assets/f2.jpg");
+  background: url("~/assets/1452.jpg");
   background-size: 60%;
   background-position: center center;
   display: flex;

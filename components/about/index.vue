@@ -103,7 +103,7 @@
               <template v-slot:icon>
                 <v-avatar>
                   <img
-                    src="~/assets/f2.jpg"
+                    src="~/assets/1452.jpg"
                   />
                 </v-avatar>
               </template>
@@ -121,7 +121,7 @@
               <template v-slot:icon>
                 <v-avatar>
                   <img
-                    src="~/assets/f2.jpg"
+                    src="~/assets/1452.jpg"
                   />
                 </v-avatar>
               </template>
@@ -145,7 +145,7 @@
               <template v-slot:icon>
                 <v-avatar>
                   <img
-                    src="~/assets/f2.jpg"
+                    src="~/assets/1452.jpg"
                   />
                 </v-avatar>
               </template>
@@ -161,7 +161,7 @@
               <template v-slot:icon>
                 <v-avatar>
                   <img
-                    src="~/assets/f2.jpg"
+                    src="~/assets/1452.jpg"
                   />
                 </v-avatar>
               </template>
@@ -179,7 +179,7 @@
               <template v-slot:icon>
                 <v-avatar>
                   <img
-                    src="~/assets/f2.jpg"
+                    src="~/assets/1452.jpg"
                   />
                 </v-avatar>
               </template>
